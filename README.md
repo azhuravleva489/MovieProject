@@ -96,12 +96,27 @@ in
 ### Results and Findings
 1. Genre Performance
 Action is the highest-grossing genre, generating $28.06B in total box office revenue.
+<img width="1028" height="314" alt="image" src="https://github.com/user-attachments/assets/598f4a53-7368-47f2-bc97-2bf9f48880f6" />
+
 Horror has the highest average ROI, making it a promising option for budget-efficient productions.
+<img width="1020" height="306" alt="image" src="https://github.com/user-attachments/assets/f8b8468a-d750-4543-95a1-d6ad455560f2" />
+
 
 2. Release Timing
 Action movies perform particularly well in May, June, and July.
+<img width="1022" height="548" alt="image" src="https://github.com/user-attachments/assets/349dfa04-e79d-4051-87c3-188cce619c11" />
+
 For horror movies, June and September show the highest average box office revenue.
+<img width="1016" height="542" alt="image" src="https://github.com/user-attachments/assets/19e1cb89-650a-4bad-98cc-a9ffcd259f63" />
+
+
 
 3. Directors and Actors
 Zack Snyder and Tom Cruise are strong candidates for action productions based on their historical box office performance.
+<img width="1014" height="300" alt="image" src="https://github.com/user-attachments/assets/50cf45da-c110-4ed2-a13d-74e086b45f7d" />
+<img width="866" height="298" alt="image" src="https://github.com/user-attachments/assets/8ed5b833-61dd-4b11-8fd2-3b2825166a18" />
+
 James Wan and Patrick Wilson are promising candidates for horror productions.
+<img width="1012" height="308" alt="image" src="https://github.com/user-attachments/assets/117790cb-0338-4023-a85d-f51f0974c0a9" />
+<img width="868" height="304" alt="image" src="https://github.com/user-attachments/assets/74bbbbbd-ce82-4bf8-9f9f-c076217b3094" />
+
